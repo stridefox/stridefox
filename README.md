@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/workspaces/stridefox/assets/Cover Photo for Github.gif" alt="Hi, I'm Rohan 👋 I'm a Backend Developer 👨‍💻 Analytical and Detail-oriented">
+  <img src="https://github.com/stridefox/stridefox/blob/main/assets/Cover%20Photo%20for%20Github.gif" alt="Hi, I'm Rohan 👋 I'm a Backend Developer 👨‍💻 Analytical and Detail-oriented">
 </p>
 
 ## About Me!
