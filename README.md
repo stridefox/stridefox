@@ -2,8 +2,8 @@
   <img src="https://github.com/stridefox/stridefox/blob/main/assets/Cover%20Photo%20for%20Github.gif" alt="Hi, I'm Rohan 👋 I'm a Backend Developer 👨‍💻 Analytical and Detail-oriented">
 </p>
 
-## About Me!
-
+## 🚀 Code Adventurer
+With a strong background in Computer Science, I help develop solutions that cater to the unique needs of business and people, in order to help bring about a revolutionary change. 
 <!--
 **stridefox/stridefox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
