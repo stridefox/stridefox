@@ -4,6 +4,8 @@
 
 ## 🚀 Hey there! I'm Rohan
 
+<img src="https://myreadme.vercel.app/api/embed/stridefox?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
 With a solid foundation in Computer Science, I craft solutions that meet the unique needs of businesses and individuals, driving revolutionary change. 🚀
 
 - 💻 **Tech Enthusiast:** I love creating impactful tech solutions.
@@ -21,7 +23,7 @@ I'm driven by a passion for continuous learning and growth. Each challenge is a 
 Let's connect and create some magic together! 🌍✨
 
 ## Proficiency Portfolio 📁: “Showcasing My Proficiency Portfolio”
-<img src="https://myreadme.vercel.app/api/embed/stridefox?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
 
 <!--
 **stridefox/stridefox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
