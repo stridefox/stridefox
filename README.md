@@ -25,23 +25,33 @@ Let's connect and create some magic together! 🌍✨
 ## 📁 Proficiency Portfolio 
 
 Python 🐍: Intermediate - Crafted a variety of web applications, data analysis tools, and automation scripts. Gaining expertise in frameworks like FastAPI.
+
 C/C++ 🖥️: Intermediate - Developed performance-critical applications and efficient algorithms. Strong in memory management and STL.
+
 JavaScript (React, Node.js) ⚛️: Limited - Working on creating interactive applications and understanding modern syntax and asynchronous patterns.
+
 Frameworks and Libraries:
 
 FastAPI 🏎️: Intermediate - Building high-performance APIs with async capabilities and real-time features.
+
 SQLAlchemy & Alembic 📊: Intermediate - Designing and managing complex database schemas and migrations.
+
 Selenium & BeautifulSoup 🕵️‍♂️: Intermediate - Automating web interactions and scraping data for various use cases.
 Databases:
 
 MySQL 🛢️: Intermediate - Implemented scalable database solutions and complex queries.
+
 SQLite 🗃️: Intermediate - Used for lightweight local storage in applications.
+
 PostgreSQL 🐘: Intermediate - Working with relational databases, focusing on performance and data integrity.
 Tools and Platforms:
 
 VS Code 💻: Intermediate - My go-to IDE for coding and debugging.
+
 Postman 🧪: Intermediate - Testing and documenting APIs with ease.
+
 Git & GitHub 🐙: Intermediate - Managing version control and collaborative projects.
+
 Other Technologies:
 
 Azure IoT Hub & IoT Central 🌐: Limited - Exploring IoT solutions and integrations.
