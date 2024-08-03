@@ -24,39 +24,30 @@ Let's connect and create some magic together! 🌍✨
 
 ## 📁 Proficiency Portfolio 
 
-Python 🐍: Intermediate - Crafted a variety of web applications, data analysis tools, and automation scripts. Gaining expertise in frameworks like FastAPI.
+*Programming Languages:*
+1. Python 🐍: Intermediate - Crafted a variety of web applications, data analysis tools, and automation scripts. Gaining expertise in frameworks like FastAPI.
+2. C/C++ 🖥️: Intermediate - Developed performance-critical applications and efficient algorithms. Strong in memory management and STL.
+3. JavaScript (React, Node.js) ⚛️: Limited - Working on creating interactive applications and understanding modern syntax and asynchronous patterns.
 
-C/C++ 🖥️: Intermediate - Developed performance-critical applications and efficient algorithms. Strong in memory management and STL.
+*Frameworks and Libraries:*
+1. FastAPI 🏎️: Intermediate - Building high-performance APIs with async capabilities and real-time features.
+2. SQLAlchemy & Alembic 📊: Intermediate - Designing and managing complex database schemas and migrations.
+3. Selenium & BeautifulSoup 🕵️‍♂️: Intermediate - Automating web interactions and scraping data for various use cases.
 
-JavaScript (React, Node.js) ⚛️: Limited - Working on creating interactive applications and understanding modern syntax and asynchronous patterns.
+*Databases:*
+1. MySQL 🛢️: Intermediate - Implemented scalable database solutions and complex queries.
+2. SQLite 🗃️: Intermediate - Used for lightweight local storage in applications.
+3. PostgreSQL 🐘: Intermediate - Working with relational databases, focusing on performance and data integrity.
 
-Frameworks and Libraries:
+*Tools and Platforms:*
+1. VS Code 💻: Intermediate - My go-to IDE for coding and debugging.
+2. Postman 🧪: Intermediate - Testing and documenting APIs with ease.
+3. Git & GitHub 🐙: Intermediate - Managing version control and collaborative projects.
 
-FastAPI 🏎️: Intermediate - Building high-performance APIs with async capabilities and real-time features.
-
-SQLAlchemy & Alembic 📊: Intermediate - Designing and managing complex database schemas and migrations.
-
-Selenium & BeautifulSoup 🕵️‍♂️: Intermediate - Automating web interactions and scraping data for various use cases.
-Databases:
-
-MySQL 🛢️: Intermediate - Implemented scalable database solutions and complex queries.
-
-SQLite 🗃️: Intermediate - Used for lightweight local storage in applications.
-
-PostgreSQL 🐘: Intermediate - Working with relational databases, focusing on performance and data integrity.
-Tools and Platforms:
-
-VS Code 💻: Intermediate - My go-to IDE for coding and debugging.
-
-Postman 🧪: Intermediate - Testing and documenting APIs with ease.
-
-Git & GitHub 🐙: Intermediate - Managing version control and collaborative projects.
-
-Other Technologies:
-
-Azure IoT Hub & IoT Central 🌐: Limited - Exploring IoT solutions and integrations.
-Docker 🐳: Limited - Containerizing applications.
-AWS ☁️: Limited - Familiar with basic services.
+*Other Technologies:*
+1. Azure IoT Hub & IoT Central 🌐: Limited - Exploring IoT solutions and integrations.
+2. Docker 🐳: Limited - Containerizing applications.
+3. AWS ☁️: Limited - Familiar with basic services.
 
 # 📚 Learning and Growth
 
