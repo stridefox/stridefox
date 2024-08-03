@@ -22,20 +22,32 @@ I'm driven by a passion for continuous learning and growth. Each challenge is a 
 
 Let's connect and create some magic together! 🌍✨
 
-## Proficiency Portfolio 📁: “Showcasing My Proficiency Portfolio”
+## 📁 Proficiency Portfolio 
 
+Python 🐍: Intermediate - Crafted a variety of web applications, data analysis tools, and automation scripts. Gaining expertise in frameworks like FastAPI.
+C/C++ 🖥️: Intermediate - Developed performance-critical applications and efficient algorithms. Strong in memory management and STL.
+JavaScript (React, Node.js) ⚛️: Limited - Working on creating interactive applications and understanding modern syntax and asynchronous patterns.
+Frameworks and Libraries:
 
-<!--
-**stridefox/stridefox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+FastAPI 🏎️: Intermediate - Building high-performance APIs with async capabilities and real-time features.
+SQLAlchemy & Alembic 📊: Intermediate - Designing and managing complex database schemas and migrations.
+Selenium & BeautifulSoup 🕵️‍♂️: Intermediate - Automating web interactions and scraping data for various use cases.
+Databases:
 
-Here are some ideas to get you started:
+MySQL 🛢️: Intermediate - Implemented scalable database solutions and complex queries.
+SQLite 🗃️: Intermediate - Used for lightweight local storage in applications.
+PostgreSQL 🐘: Intermediate - Working with relational databases, focusing on performance and data integrity.
+Tools and Platforms:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+VS Code 💻: Intermediate - My go-to IDE for coding and debugging.
+Postman 🧪: Intermediate - Testing and documenting APIs with ease.
+Git & GitHub 🐙: Intermediate - Managing version control and collaborative projects.
+Other Technologies:
+
+Azure IoT Hub & IoT Central 🌐: Limited - Exploring IoT solutions and integrations.
+Docker 🐳: Limited - Containerizing applications.
+AWS ☁️: Limited - Familiar with basic services.
+
+# 📚 Learning and Growth
+
+As a fresher with a solid foundation in Computer Science, I'm actively expanding my skillset and diving into new technologies. My drive for innovation pushes me to continually explore and master emerging trends in the tech industry.
