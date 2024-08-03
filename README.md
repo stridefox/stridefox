@@ -20,8 +20,8 @@ I'm driven by a passion for continuous learning and growth. Each challenge is a 
 
 Let's connect and create some magic together! 🌍✨
 
-## :skill: My Skillset
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stridefox)
+## Proficiency Portfolio 📁: “Showcasing My Proficiency Portfolio”
+<img src="https://myreadme.vercel.app/api/embed/stridefox?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 <!--
 **stridefox/stridefox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
